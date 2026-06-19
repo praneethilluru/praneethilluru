@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Praneeth%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Systems%20Engineer%20%7C%20AI%2FML%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,100:2c5364&amp;height=250&amp;section=header&amp;text=Praneeth%20Reddy&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20%26%20Systems%20Engineer%20%7C%20AI%2FML%20Builder&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Architecting+Scalable+Backend+Systems;Engineering+Multi-Agent+AI+Pipelines;Turning+Data+into+Decisions%2C+not+just+Dashboards;B.Tech+Student+%7C+Open+to+SWE+%2F+AI-ML+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Architecting+Scalable+Backend+Systems;Engineering+Multi-Agent+AI+Pipelines;Turning+Data+into+Decisions%2C+not+just+Dashboards;B.Tech+Student+%7C+Open+to+SWE+%2F+AI-ML+Roles)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge&logo=statuspage&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_to-SWE_%26_AI%2FML_Roles-blue?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge&amp;logo=statuspage&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_to-SWE_%26_AI%2FML_Roles-blue?style=for-the-badge&amp;logo=target&amp;logoColor=white"/>
 </p>
 
 </div>
@@ -41,32 +41,32 @@ class Praneeth:
 <td valign="top" width="50%">
 
 #### 💻 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"/>
 
 #### 🏗️ Frameworks & Backend
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Multi--Agent_AI-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Agent_AI-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/>
 
 </td>
 <td valign="top" width="50%">
 
 #### 🗄️ Databases & Data
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-2E8B57?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-2E8B57?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white"/>
 
 #### 🛠️ Developer Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"/>
 
 </td>
 </tr>
@@ -122,14 +122,14 @@ A full-stack risk intelligence platform that ingests vehicle and driver data, co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=praneethilluru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethilluru&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" width="34%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=praneethilluru&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethilluru&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;bg_color=0d1117" width="34%" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praneethilluru&theme=tokyonight&hide_border=true&background=0d1117" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praneethilluru&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praneethilluru&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="98%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praneethilluru&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117" width="98%" alt="Contribution Graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=praneethilluru&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="98%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=praneethilluru&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8" width="98%" alt="Trophies"/>
 
 </div>
 
@@ -155,9 +155,9 @@ A full-stack risk intelligence platform that ingests vehicle and driver data, co
 I'm actively looking for **Software Engineering** and **AI/ML Engineering** opportunities where I can build systems that think as well as they scale. If you're working on something hard, technical, and worth solving — let's talk.
 
 <p>
-<a href="https://www.linkedin.com/in/praneethreddyilluru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/praneethilluru" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/praneethilluru" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/praneethreddyilluru/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="https://www.instagram.com/praneethilluru" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/></a>
+<a href="https://github.com/praneethilluru" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
 </p>
 
 <br>
@@ -166,6 +166,6 @@ I'm actively looking for **Software Engineering** and **AI/ML Engineering** oppo
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,100:0f2027&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
