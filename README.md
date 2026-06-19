@@ -140,6 +140,7 @@ A full-stack risk intelligence platform that ingests vehicle and driver data, co
 
 ## 🎯 What I'm Bringing to a Team
 
+<div align="center">
 <table width="100%">
 <tr>
 <td align="center" width="25%">🏗️<br><b>System Design Thinking</b><br><sub>Architecture before code</sub></td>
@@ -148,6 +149,7 @@ A full-stack risk intelligence platform that ingests vehicle and driver data, co
 <td align="center" width="25%">📐<br><b>Clean, Maintainable Code</b><br><sub>Built for the next engineer too</sub></td>
 </tr>
 </table>
+</div>
 
 ---
 
