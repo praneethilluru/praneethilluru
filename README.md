@@ -117,8 +117,8 @@ I build software where correctness and performance are not tradeoffs. My focus i
 
 I'm actively exploring **Software Engineering** and **AI/ML Engineering** roles where I can build systems that are both performant and intelligent. Open to collaboration, code review, and good engineering conversations.
 </div>
-<div align="center">
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/praneethilluru)
-![Profile Views](https://komarev.com/ghpvc/?username=praneethilluru&color=58A6FF&style=flat-square&label=Profile+Views)
 
+<div align="center">
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/praneethilluru)
+  [![Profile Views](https://komarev.com/ghpvc/?username=praneethilluru&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/praneethilluru)
 </div>
