@@ -9,6 +9,8 @@
 <p>
   <img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge&amp;logo=statuspage&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Open_to-SWE_%26_AI%2FML_Roles-blue?style=for-the-badge&amp;logo=target&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Building-AI_Powered_Solutions-purple?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-DSA_%26_System_Design-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </p>
 
 </div>
