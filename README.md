@@ -1,16 +1,13 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,100:2c5364&amp;height=250&amp;section=header&amp;text=Praneeth%20Reddy&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20%26%20Systems%20Engineer%20%7C%20AI%2FML%20Builder&amp;descAlignY=55&amp;descSize=18" width="100%"/>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Architecting+Scalable+Backend+Systems;Engineering+Multi-Agent+AI+Pipelines;Turning+Data+into+Decisions%2C+not+just+Dashboards;B.Tech+Student+%7C+Open+to+SWE+%2F+AI-ML+Roles)](https://git.io/typing-svg)
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge&amp;logo=statuspage&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open_to-SWE_%26_AI%2FML_Roles-blue?style=for-the-badge&amp;logo=target&amp;logoColor=white"/>
-</p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,100:2c5364&amp;height=250&amp;section=header&amp;text=Praneeth%20Reddy&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20%26%20Systems%20Engineer%20%7C%20AI%2FML%20Builder&amp;descAlignY=55&amp;descSize=18" width="100%" />
+  <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Architecting+Scalable+Backend+Systems;Engineering+Multi-Agent+AI+Pipelines;Turning+Data+into+Decisions%2C+not+just+Dashboards;B.Tech+Student+%7C+Open+to+SWE+%2F+AI-ML+Roles" alt="Typing SVG" />
+  </a>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge&amp;logo=statuspage&amp;logoColor=white" />
+    <img src="https://img.shields.io/badge/Open_to-SWE_%26_AI%2FML_Roles-blue?style=for-the-badge&amp;logo=target&amp;logoColor=white" />
+  </p>
 </div>
 
 ---
