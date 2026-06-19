@@ -134,7 +134,7 @@ A full-stack risk intelligence platform that ingests vehicle and driver data, co
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=praneethilluru&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117" width="98%" alt="Contribution Graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=praneethilluru&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8" width="98%" alt="Trophies"/>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=praneethilluru&theme=gruvbox&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8" width="98%" alt="Trophies"/>
 
 </div>
 
