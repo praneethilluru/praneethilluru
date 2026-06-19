@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,100:2c5364&amp;height=250&amp;section=header&amp;text=Praneeth%20Reddy&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20%26%20Systems%20Engineer%20%7C%20AI%2FML%20Builder&amp;descAlignY=55&amp;descSize=18" width="100%" />
-  <br />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Architecting+Scalable+Backend+Systems;Engineering+Multi-Agent+AI+Pipelines;Turning+Data+into+Decisions%2C+not+just+Dashboards;B.Tech+Student+%7C+Open+to+SWE+%2F+AI-ML+Roles" alt="Typing SVG" />
-  </a>
-  <p>
-    <img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge&amp;logo=statuspage&amp;logoColor=white" />
-    <img src="https://img.shields.io/badge/Open_to-SWE_%26_AI%2FML_Roles-blue?style=for-the-badge&amp;logo=target&amp;logoColor=white" />
-  </p>
+
+# Hi, I'm Praneeth Reddy 👋
+
+### Software & Systems Engineer | Building Intelligent, Scalable Applications
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Architecting+Scalable+Backend+Systems;Engineering+Multi-Agent+AI+Pipelines;Turning+Data+into+Decisions%2C+not+just+Dashboards;B.Tech+Student+%7C+Open+to+SWE+%2F+AI-ML+Roles)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Actively_Building-success?style=for-the-badge&amp;logo=statuspage&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_to-SWE_%26_AI%2FML_Roles-blue?style=for-the-badge&amp;logo=target&amp;logoColor=white"/>
+</p>
+
 </div>
 
 ---
@@ -39,6 +42,7 @@ class Praneeth:
 
 #### 💻 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/>
@@ -47,6 +51,7 @@ class Praneeth:
 
 #### 🏗️ Frameworks & Backend
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Multi--Agent_AI-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/>
 
@@ -63,6 +68,7 @@ class Praneeth:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&amp;logo=apachemaven&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"/>
 
 </td>
@@ -159,10 +165,6 @@ I'm actively looking for **Software Engineering** and **AI/ML Engineering** oppo
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=praneethilluru&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,100:0f2027&amp;height=120&amp;section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=praneethilluru&amp;color=58A6FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
